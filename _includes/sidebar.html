@@ -28,7 +28,7 @@
     <!-- posts -->
     <li class="nav-item{% if page.title == 'posts' %}{{ " active" }}{% endif %}">
       <a href="{{ '/posts' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-info-circle"></i>
+        <i class="fa-fw fas fa-folder"></i>
         <span>{{ site.data.locales[include.lang].tabs.posts | upcase }}</span>
       </a>
     </li> 
@@ -48,6 +48,10 @@
   </ul>
 </nav>
 
+  <div class="lang-selector-wrapper w-100">
+    {%- include lang-selector.html -%}
+  </div>
+  
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
       <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">

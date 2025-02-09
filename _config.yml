@@ -193,6 +193,15 @@ defaults:
       layout: page
       permalink: /:title/
 
+plugins:
+  - jekyll-polyglot
+
+# polyglot configuration
+languages: ["en", "zh-CN"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "assets", "public", "sitemap.xml"]
+parallel_localization: false
+
 sass:
   style: compressed
 
@@ -206,15 +215,15 @@ compress_html:
     envs: [development]
 
 exclude:
-  - "*.gem"
-  - "*.gemspec"
+  # - "*.gem"
+  # - "*.gemspec"
   - docs
   - tools
   - README.md
   - LICENSE
   - purgecss.js
-  - rollup.config.js
-  - "package*.json"
+  # - rollup.config.js
+  # - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
