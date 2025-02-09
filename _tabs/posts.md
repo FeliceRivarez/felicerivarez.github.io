@@ -1,4 +1,5 @@
 ---
+title: posts
 layout: home
 order: 4
 ---
