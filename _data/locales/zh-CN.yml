@@ -14,7 +14,9 @@ tabs:
   categories: 分类
   tags: 标签
   archives: 归档
-  about: 关于
+  about: 本人信息
+  posts: 文章
+  
 
 # the text displayed in the search bar & search results
 search:
