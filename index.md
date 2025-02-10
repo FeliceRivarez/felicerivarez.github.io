@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)
+
 ## Hi there! This is Yifei Zhang.
 
 - I am currently a third-year undergraduate in the College of Computer Science, Nankai University.
