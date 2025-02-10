@@ -5,6 +5,8 @@ title: About
 
 [[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)
 
+很抱歉目前网站的双语系统无法在网站主页展示中文介绍，但其他内容的双语系统均可正常工作。
+
 ## Hi there! This is Yifei Zhang.
 
 - I am currently a third-year undergraduate in the College of Computer Science, Nankai University.
