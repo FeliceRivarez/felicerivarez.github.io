@@ -2,10 +2,10 @@
 title: 大作业回顾：前言
 lang: zh-CN
 description: 大作业回顾系列文章的前言
-date: 2025-02-10 11:33:00 +0800
+date: 2025-02-10 17:20:00 +0800
 categories: [Journal, Projects]
 tags: [Course Projects]
-pin: false
+pin: true
 math: true
 mermaid: true
 ---
