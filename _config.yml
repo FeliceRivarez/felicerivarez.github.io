@@ -199,7 +199,7 @@ plugins:
 # polyglot configuration
 languages: ["en", "zh-CN"]
 default_lang: "en"
-exclude_from_localization: ["javascript", "images", "assets", "public", "sitemap.xml"]
+exclude_from_localization: ["javascript", "assets", "public", "sitemap.xml"]
 parallel_localization: false
 
 sass:
