@@ -2,7 +2,7 @@
 title: Github SSH key配置
 lang: zh-CN
 description: 如何为github配置ssh key
-date: 2025-02-14 17:20:00 +0800
+date: 2025-03-08 11:20:00 +0800
 categories: [Tutorial, trivial]
 tags: [Technical]
 pin: false
