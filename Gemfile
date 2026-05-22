@@ -14,3 +14,6 @@ end
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem 'jekyll-polyglot', '~> 1.9'
+
+# Pin sass-embedded to avoid 1.100.0 which has JSON::Fragment compatibility issues
+gem "sass-embedded", "~> 1.83.0"
