@@ -27,7 +27,7 @@
     </li>
     <!-- publications -->
     <li class="nav-item{% if page.url == '/publications/' or page.url == '/zh-CN/publications/' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/publications/' | relative_url }}" class="nav-link">
+      <a href="{% if site.active_lang != site.default_lang %}/{{ site.active_lang }}{% endif %}/publications/" class="nav-link">
         <i class="fa-fw fas fa-book-open"></i>
         <span>{{ site.data.locales[include.lang].tabs.publications | upcase }}</span>
       </a>
