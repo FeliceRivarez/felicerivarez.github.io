@@ -13,7 +13,7 @@ title: About
 
 - My research interest is mainly information security, with a focus on AI security and AI for security. My previous research interest includes authentication and password security, specifically password strength evaluation and honey vault schemes. 
 
-- I am expected to receive the Degree of Bachelor of Engineering in Computer Science in 2026. You can find my thesis [here]({{ site.url }}/download/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v7_26_6_7.pdf).
+- I am expected to receive the Degree of Bachelor of Engineering in Computer Science in 2026. You can find my thesis [here]({{ site.url }}/download/thesis/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v7_26_6_7.pdf).
 
 - One purpose of this site is to collected useful things (posts, articles, technical blogs, etc.) that I ran accross. Particularly, I find it very time consuming to look up others' blog posts for problems that I run into occasionally and repeatedly, especially mudane and trivial routinary tasks such as setting up a proxy for virtual machines. Posts and articles for this purpose are mostly reposts of other blog post, serving as a manual that might come in handy.
 
