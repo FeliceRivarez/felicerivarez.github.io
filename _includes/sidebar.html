@@ -11,8 +11,8 @@
       {%- endif -%}
     </a>
 
-    <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+    <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.data[lang].site.title | default: site.title }}</a>
+    <p class="site-subtitle fst-italic mb-0">{{ site.data[lang].site.tagline | default: site.tagline }}</p>
   </header>
   <!-- .profile-wrapper -->
 
