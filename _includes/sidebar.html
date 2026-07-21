@@ -25,6 +25,13 @@
         <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
       </a>
     </li>
+    <!-- publications -->
+    <li class="nav-item{% if page.url == '/publications/' or page.url == '/zh-CN/publications/' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/publications/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-book-open"></i>
+        <span>{{ site.data.locales[include.lang].tabs.publications | upcase }}</span>
+      </a>
+    </li>
     <!-- posts -->
     <li class="nav-item{% if page.title == 'posts' %}{{ " active" }}{% endif %}">
       <a href="{{ '/posts' | relative_url }}" class="nav-link">
@@ -34,7 +41,7 @@
     </li> 
     <!-- the real tabs -->
     {% for tab in site.tabs %}
-      {% if tab.url != '/posts/' %}
+      {% if tab.url != '/posts/' and tab.url != '/publications/' %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>

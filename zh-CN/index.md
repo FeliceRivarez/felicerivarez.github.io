@@ -5,7 +5,7 @@ lang: zh-CN
 permalink: /
 ---
 
-[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)
+[[中文简历]]({{ site.url }}/download/cv/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/cv/YifeiZhang_CV_English.pdf)
 
 ## 欢迎来到张逸非的主页！
 
@@ -18,15 +18,3 @@ permalink: /
 - 本网站的一个目的是收集我遇到的有用资料（帖子、文章、技术博客等）。我发现偶尔反复遇到同样的问题时——尤其是琐碎的例行任务（比如为虚拟机设置代理）——查阅别人的博客非常耗时。为此目的的文章大多是他人的博客转载，作为可能派上用场的手册。
 
 - 本网站的另一个目的是记录我所做的事情。这类文章可以视为我的日志的一部分。它们可能对他人有用，但我主要将其放在这里以记录自己完成的工作。
-
-<!-- ### 发表论文：
-
-- **EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning**
-  
-  **张一飞**, 侯振铎, 邹云开, 李震, 汪定. In Proc. INSCRYPT 2024 (**CCF-C**), **最佳论文 runner-up** (3/47). 待发表. [[PDF]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
-
-### 获奖：
-
-- 2024 年全国密码技术竞赛，决赛入围，**二等奖**。本人担任汇报人，撰写并润色报告，部分完成作品。决赛小组赛阶段排名第一。但因组委会临时通知初赛成绩也计入总分（往届从未如此），导致失去一等奖机会。
-
-- 2024 年全国大学生数学建模竞赛，**天津市二等奖**。本人担任队长、建模与编程。 -->

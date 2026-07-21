@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)  [[中文介绍]]({{ site.url }}/zh-CN/)
+[[中文简历]]({{ site.url }}/download/cv/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/cv/YifeiZhang_CV_English.pdf)  [[中文介绍]]({{ site.url }}/zh-CN/)
 
 ## Hi there! This is Yifei Zhang.
 
