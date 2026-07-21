@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)
-
-很抱歉目前网站的双语系统无法在网站主页切换中文介绍，但其他内容的双语系统均可正常工作。中文介绍参见：[coming soon]
+[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)  [[中文介绍]]({{ site.url }}/zh-CN/)
 
 ## Hi there! This is Yifei Zhang.
 

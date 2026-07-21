@@ -1,0 +1,32 @@
+---
+layout: page
+title: 本人信息
+lang: zh-CN
+permalink: /
+---
+
+[[中文简历]]({{ site.url }}/download/YifeiZhang_CV_Chinese.pdf)  [[English CV]]({{ site.url }}/download/YifeiZhang_CV_English.pdf)
+
+## 欢迎来到张逸非的主页！
+
+- 目前，我已被中国科学院信息工程研究所录取，将于2026年9月入学并直接攻读博士学位，导师为[孟国柱教授](https://impillar.github.io/)。所里暂时没有给我分配机构邮箱，可以通过南开的学生邮箱yifeizhang@mail.nankai.edu.cn联系我。
+
+- 我的研究方向主要是信息安全，特别是AI安全，以及AI在软件安全、软件工程中安全相关问题里的应用。我本科期间的研究方向主要是身份认证与口令安全。
+
+- 我于2026年6月在南开大学获得工学学士学位（计算机科学与技术），并在2023年9月至2026年7月期间于南开大学密码学与系统安全实验室参加科研实习，指导教师为汪定教授与侯振铎博士。我的毕业论文全文可在[此处]({{ site.url }}/download/thesis/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v7_26_6_7.pdf)查看，该论文目前已获评南开大学优秀本科生毕业论文。
+
+- 本网站的一个目的是收集我遇到的有用资料（帖子、文章、技术博客等）。我发现偶尔反复遇到同样的问题时——尤其是琐碎的例行任务（比如为虚拟机设置代理）——查阅别人的博客非常耗时。为此目的的文章大多是他人的博客转载，作为可能派上用场的手册。
+
+- 本网站的另一个目的是记录我所做的事情。这类文章可以视为我的日志的一部分。它们可能对他人有用，但我主要将其放在这里以记录自己完成的工作。
+
+<!-- ### 发表论文：
+
+- **EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning**
+  
+  **张一飞**, 侯振铎, 邹云开, 李震, 汪定. In Proc. INSCRYPT 2024 (**CCF-C**), **最佳论文 runner-up** (3/47). 待发表. [[PDF]](https://www.researchgate.net/publication/387090294_EditPSM_A_New_Password_Strength_Meter_Based_on_Password_Reuse_via_Deep_Learning) [[video]](https://www.bilibili.com/video/BV1Zhk1YqECC?vd_source=a77cc3ee011649af678918fbe9172a5c)
+
+### 获奖：
+
+- 2024 年全国密码技术竞赛，决赛入围，**二等奖**。本人担任汇报人，撰写并润色报告，部分完成作品。决赛小组赛阶段排名第一。但因组委会临时通知初赛成绩也计入总分（往届从未如此），导致失去一等奖机会。
+
+- 2024 年全国大学生数学建模竞赛，**天津市二等奖**。本人担任队长、建模与编程。 -->
