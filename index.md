@@ -13,7 +13,7 @@ title: About
 
 - I received my Bachelor of Engineering in Computer Science from Nankai University (Jun. 2026), under the supervision of [Prof. Ding Wang](https://cssnku.github.io/) and Dr. Zhenduo Hou. You can find my thesis [here]({{ site.url }}/download/thesis/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v8_26_7_21.pdf). The thesis is in Chinese, if you find any issues in my thesis, or have problem in reproducing the proposed methods, feel free to contact me.
 
-- One purpose of this site is to collected useful things (posts, articles, technical blogs, etc.) that I ran accross. Particularly, I find it very time consuming to look up others' blog posts for problems that I run into occasionally and repeatedly, especially mudane and trivial routinary tasks such as setting up a proxy for virtual machines. Posts and articles for this purpose are mostly reposts of other blog post, serving as a manual that might come in handy.
+- One purpose of this site is to collect useful things (posts, articles, technical blogs, etc.) that I ran accross. Particularly, I find it very time consuming to look up others' blog posts for problems that I run into occasionally and repeatedly, especially mundane and trivial routinary tasks such as setting up a proxy for virtual machines. Posts and articles for this purpose are mostly reposts of other blog post, serving as a manual that might come in handy.
 
 - Another purpose of this site is to keep track of what I do. Consider posts and articles of this kind as parts of my journal. They may be useful for others, but I mainly keep them here to keep track of things I did.
 
