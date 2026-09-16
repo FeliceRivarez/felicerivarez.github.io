@@ -7,7 +7,7 @@ title: About
 
 ## Hi there! This is Yifei Zhang.
 
-- I am expected to become a PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences (starting from Sept. 2026), with [Prof. Guozhu Meng](https://impillar.github.io/) as my supervisor. Feel free to drop me an email! You can reach me at zhangyifei26@mails.ucas.ac.cn or yifeizhang@mail.nankai.edu.cn.
+- I am now a first-year PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences (starting from Sept. 2026), with [Prof. Guozhu Meng](https://impillar.github.io/) as my supervisor. Feel free to drop me an email! You can reach me at zhangyifei2026@iie.ac.cn or zhangyifei26@mails.ucas.ac.cn.
 
 - My research interest is mainly information security, with a focus on AI security and AI for security. My previous research interest includes authentication and password security, specifically password strength evaluation and honey vault schemes. 
 

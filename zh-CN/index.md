@@ -9,7 +9,7 @@ permalink: /
 
 ## 欢迎来到张逸非的主页！
 
-- 目前，我已被中国科学院信息工程研究所录取，将于2026年9月入学并直接攻读博士学位，导师为[孟国柱教授](https://impillar.github.io/)。欢迎通过zhangyifei26@mails.ucas.ac.cn（中国科学院大学邮箱）或者yifeizhang@mail.nankai.edu.cn（南开大学邮箱）联系我。
+- 我是中国科学院信息工程研究所的2026级直博生，导师为[孟国柱教授](https://impillar.github.io/)。欢迎通过zhangyifei2026@iie.ac.cn（信工所邮箱）或者zhangyifei26@mails.ucas.ac.cn（中国科学院大学邮箱）联系我。
 
 - 我的研究方向主要是信息安全，特别是AI安全，以及AI在软件安全、软件工程中安全相关问题里的应用。我本科期间的研究方向主要是身份认证与口令安全。
 
