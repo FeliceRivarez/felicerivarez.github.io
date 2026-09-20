@@ -7,11 +7,11 @@ title: About
 
 ## Hi there! This is Yifei Zhang.
 
-- I am now a first-year PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences (starting from Sept. 2026), with [Prof. Guozhu Meng](https://impillar.github.io/) as my supervisor. Feel free to drop me an email! You can reach me at zhangyifei2026@iie.ac.cn or zhangyifei26@mails.ucas.ac.cn.
+- I am now a first-year PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences (starting from Sept. 2026), with **[Prof. Guozhu Meng](https://impillar.github.io/)** as my supervisor. Feel free to drop me an email! You can reach me at zhangyifei2026@iie.ac.cn or zhangyifei26@mails.ucas.ac.cn.
 
 - My research interest is mainly information security, with a focus on AI security and AI for security. My previous research interest includes authentication and password security, specifically password strength evaluation and honey vault schemes. 
 
-- I received my Bachelor of Engineering in Computer Science from Nankai University (Jun. 2026), under the supervision of [Prof. Ding Wang](https://cssnku.github.io/) and Dr. Zhenduo Hou. You can find my thesis [here]({{ site.url }}/download/thesis/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v8_26_7_21.pdf). The thesis is in Chinese, if you find any issues in my thesis, or have problem in reproducing the proposed methods, feel free to contact me.
+- I received my Bachelor of Engineering in Computer Science from Nankai University (Jun. 2026), under the supervision of **[Prof. Ding Wang](https://cssnku.github.io/) and Postdoctoral researcher Dr. Zhenduo Hou**. You can find **my thesis [here]({{ site.url }}/download/thesis/Yifei_Zhang_Bachelor_of_Engineering_Thesis_v8_26_7_21.pdf).** The thesis is in Chinese, if you find any issues in my thesis, or have problem in reproducing the proposed methods, feel free to contact me.
 
 - One purpose of this site is to collect useful things (posts, articles, technical blogs, etc.) that I ran accross. Particularly, I find it very time consuming to look up others' blog posts for problems that I run into occasionally and repeatedly, especially mundane and trivial routinary tasks such as setting up a proxy for virtual machines. Posts and articles for this purpose are mostly reposts of other blog post, serving as a manual that might come in handy.
 
