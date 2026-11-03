@@ -14,14 +14,14 @@ permalink: /publications/
   
   侯朕铎, 汪定<sup>†</sup>, **张逸非**.
 
-  In Proc. **NDSS 2027** (**CCF-A**), Accepted (acceptance rate 151/1153=13.10%). To Appear.
+  In Proc. **NDSS 2027** (**CCF-A**), Accepted (acceptance rate 151/1153=13.10%). [[PDF]]({{ site.url }}/download/publications/NDSS27-Zipf-v10.pdf)
 
 
 - **VersaPSE: Versatile Password Strength Evaluation Using Continual Learning**  
   
   **张逸非**, 侯朕铎<sup>†</sup>, 汪定.
 
-  In Proc. **RAID 2026** (**CCF-B**), acceptance rate 58/350≈16.5%. [[PDF]]({{ site.url }}/download/publications/VersaPSE_raid26_camera_ready.pdf) [[code]](https://github.com/FeliceRivarez/VersaPSE_code)
+  In Proc. **RAID 2026** (**CCF-B**), acceptance rate 58/350≈16.5%. [[PDF]]({{ site.url }}/download/publications/VersaPSE_raid26_camera_ready.pdf) [[code]](https://github.com/FeliceRivarez/VersaPSE_code) [[video]](https://www.bilibili.com/video/BV1x8nc6PEfz?vd_source=a77cc3ee011649af678918fbe9172a5c)
 
 - **EditPSM: A New Password Strength Meter Based on Password Reuse via Deep Learning**  
   
